@@ -9,7 +9,7 @@
 - [ ] LOGGER support.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMatter658/force-subscribe-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/donui-bit/force-subscribe-telegram-bot)
 
 ### [Tutorial Video](https://youtu.be/e6LFR5W2BqQ)
 
